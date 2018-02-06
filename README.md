@@ -30,8 +30,8 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. I would like to discuss the 
-2.
+1. I would like to discuss the connection between the different files (when you create a new file versus simply making an outlet).
+2. How do you utilize Pods on Github?
 
 ## Video Walkthrough
 
